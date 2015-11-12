@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">User_Registration</string>
+    <string name="username">Username</string>
+    <string name="password_confirm">Password confirmation</string>
+    <string name="password">Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="countries">Country</string>
+    <string name="sign_up">Sign up</string>
+    <string name="show_users">Show users</string>
+    <string-array name="countries">
+        <item>Ukraine</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Italy</item>
+    </string-array>
+
+</resources>
